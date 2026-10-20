@@ -9,7 +9,8 @@ This project analyzes coffee shop sales data to understand sales performance, cu
 
 ## Dashboard Preview
 
-![Coffee Shop Sales Dashboard](images/dashboard_preview.png)
+![Coffee Shop Sales Dashboard](https://github.com/Fathimanidaa/coffee-shop-sales-analysis/blob/main/coffee_shop_sales_%20analysis.png?raw=true)
+
 
 ## Key Performance Indicators
 - Total Sales
