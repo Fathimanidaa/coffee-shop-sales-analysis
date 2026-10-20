@@ -28,7 +28,7 @@ This project demonstrates practical skills in data cleaning, SQL querying, busin
 
 ## 📊 Dashboard Preview
 
-![Coffee Shop Sales Dashboard](images/coffee_shop_sales_dashboard.png)
+![Coffee Shop Sales Dashboard](https://github.com/Fathimanidaa/coffee-shop-sales-analysis/blob/main/coffee_shop_sales_%20analysis.png?raw=true)
 
 *The dashboard includes monthly filtering, KPI cards, daily sales trends, product performance, store-level sales, and a day-and-hour sales heatmap.*
 
