@@ -22,7 +22,7 @@ This project demonstrates practical skills in data cleaning, SQL querying, busin
 
 ## 🛠️ Tools and Technologies
 
-- **Microsoft Excel:** Interactive dashboard, KPI cards, charts, filtering, and data visualization.
+- **POWER BI :** Interactive dashboard, KPI cards, charts, filtering, and data visualization.
 - **MySQL:** Data preparation, aggregation, filtering, date/time functions, conditional logic, and window functions.
 - **GitHub:** Project documentation and version-controlled portfolio presentation.
 
