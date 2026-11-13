@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Sales Analysis Dashboard
 
-An end-to-end coffee shop sales analysis project using **Microsoft Excel and MySQL** to explore sales performance, product popularity, store performance, and customer purchasing patterns.
+An end-to-end coffee shop sales analysis project using **POWER BI and MySQL** to explore sales performance, product popularity, store performance, and customer purchasing patterns.
 
 ## 📌 Project Overview
 
